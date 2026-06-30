@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A56F47AE2FF461EC00E772C5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A56F47AD2FF461EC00E772C5 /* README.md */; };
+		A56F483D2FF4678D00E772C5 /* My24Demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = A56F483C2FF4678D00E772C5 /* My24Demo.gif */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A579C1F62FF4518300334E9A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A56F47AD2FF461EC00E772C5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A56F483C2FF4678D00E772C5 /* My24Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = My24Demo.gif; sourceTree = "<group>"; };
 		A579C1E62FF4518000334E9A /* My24.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = My24.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A579C1F52FF4518300334E9A /* My24Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = My24Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A579C1FF2FF4518300334E9A /* My24UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = My24UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -67,6 +74,8 @@
 			children = (
 				A579C1E82FF4518000334E9A /* My24 */,
 				A579C1E72FF4518000334E9A /* Products */,
+				A56F47AD2FF461EC00E772C5 /* README.md */,
+				A56F483C2FF4678D00E772C5 /* My24Demo.gif */,
 			);
 			sourceTree = "<group>";
 		};
@@ -194,6 +203,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56F47AE2FF461EC00E772C5 /* README.md in Resources */,
+				A56F483D2FF4678D00E772C5 /* My24Demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,6 +388,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 37567X4CDH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -408,6 +420,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 37567X4CDH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

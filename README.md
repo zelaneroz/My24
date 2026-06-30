@@ -8,6 +8,8 @@ Most productivity apps tell you what to do with your time. My24 helps you unders
 
 The design is intentionally calm and botanical — soft pinks, sage greens, warm creams — because time is personal, and the app you open every day should feel like a place you actually want to be.
 
+![My24 App Demo](My24Demo.gif)
+
 <br>
 
 ## What it does

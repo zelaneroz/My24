@@ -35,16 +35,6 @@
 			path = My24;
 			sourceTree = "<group>";
 		};
-		A579C1F82FF4518300334E9A /* My24Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = My24Tests;
-			sourceTree = "<group>";
-		};
-		A579C2022FF4518300334E9A /* My24UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = My24UITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				A579C1E82FF4518000334E9A /* My24 */,
-				A579C1F82FF4518300334E9A /* My24Tests */,
-				A579C2022FF4518300334E9A /* My24UITests */,
 				A579C1E72FF4518000334E9A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				A579C1F72FF4518300334E9A /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				A579C1F82FF4518300334E9A /* My24Tests */,
-			);
 			name = My24Tests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				A579C2012FF4518300334E9A /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				A579C2022FF4518300334E9A /* My24UITests */,
 			);
 			name = My24UITests;
 			packageProductDependencies = (
